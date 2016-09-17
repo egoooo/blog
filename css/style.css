@@ -641,7 +641,7 @@ position: absolute;right: 0;top: 0;
 padding: 0;margin: 0;line-height: 60px;cursor: pointer; 
 } 
 
-.search_ico{background:  url(../img/ddd.PNG) no-repeat ;
+.search_ico{background:  url(../img/ddd.png) no-repeat ;
   background-color:#6495ED;
   background-size:40px 40px;z-index:900;
   background-position:center;} 
